@@ -43,7 +43,7 @@ const Auth = () => {
 
         <View className="px-10">
           <Text className="text-base text-center uppercase font-rubik text-black-200">
-            Welcome To Real Scout
+            Welcome To ReState
           </Text>
           <Text className="text-3xl font-rubik-bold text-black-300 text-center mt-2">
             Let's Get You Closer To {"\n"}
